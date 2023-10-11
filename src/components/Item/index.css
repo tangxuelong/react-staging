@@ -1,0 +1,29 @@
+.listGroup {
+    margin-top: 10px;
+    border: 1px solid #CCC;
+}
+
+.listGroupItem {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 10px;
+    border-bottom: 1px solid #CCC;
+}
+
+.listGroupItem:last-child {
+    border-bottom: none
+}
+
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.footer-left .checkbox {
+    margin-right: 5px;
+}
