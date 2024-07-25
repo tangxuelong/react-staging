@@ -84,6 +84,8 @@ export default class App extends Component {
                 </Card.Body>
                 
             </Card>
+            <h1 className="justify-content-md-center">畅茜茜、万新、你们好啊</h1>
+            <h1 className="justify-content-md-center">这是一个还不知道做什么的网站</h1>
         </Container>
       
     </div>)
