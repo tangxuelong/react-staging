@@ -69,7 +69,7 @@ export default class App extends Component {
     return (<div>
 
         <Container>
-            <Card className="justify-content-md-center">
+            {/* <Card className="justify-content-md-center">
                 <Card.Header>TODOLIST</Card.Header>
                 <Card.Body>
                     <div>
@@ -83,7 +83,7 @@ export default class App extends Component {
                     </div>
                 </Card.Body>
                 
-            </Card>
+            </Card> */}
             <h1 className="justify-content-md-center">畅茜茜、万新、你们好啊</h1>
             <h1 className="justify-content-md-center">这是一个还不知道做什么的网站</h1>
         </Container>
