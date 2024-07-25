@@ -32,7 +32,7 @@
 .footer-icp {
     color: rgb(116, 154, 227) !important;
     font-family: MicrosoftYaHei;
-    font-size: 12px;
+    font-size: 16px;
     color: #fff;
     letter-spacing: 0;
     line-height: 20px;
@@ -42,7 +42,7 @@
     justify-content: center;
     align-items: center;
     width: 100%;
-    display: block;
+    display: flex;
     padding-bottom: 20px;
     position: fixed;
     bottom: 0;
